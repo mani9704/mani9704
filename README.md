@@ -10,7 +10,7 @@
   <a href="https://github.com/mani9704">
     <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
   </a>
-  <a href="www.linkedin.com/in/manikantareddy9704">
+  <a href="https://linkedin.com/in/manikantareddy9704">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
