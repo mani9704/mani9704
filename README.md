@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mani9704](https://github.com/mani9704)  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **Contact: +1 3092552110 / email: manikantareddymooli999.com**
+- 📫 How to reach me **Contact: +1 3092552110 / email: manikantareddymooli999@gmail.com**
 
 ---
 
@@ -58,16 +58,12 @@
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
-
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs username=jaiswaladi246&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
 
 --
 
-### 👨‍💼 About Me & 🤝 Open to Collaborations
-
-🎤 Available for **Guest Sessions / Webinars**  
-🤝 Open to **Project Collaborations **  
-💼 Offering **DevOps Consulting / Mentorship**  
-📧 Let’s chat: [manikantareddymooli999.com](mailto:manikantareddymooli999.com)
+### 👨‍💼 About Me & 🤝 
+🤝 contact : +1 3092552110 
+📧 Let’s chat: [manikantareddymooli999@gmail.com](mailto:manikantareddymooli999@gmail.com)
 
 > *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
