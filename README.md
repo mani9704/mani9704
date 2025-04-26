@@ -4,11 +4,11 @@
   <img src="https://github.com/mani9704/mani9704/blob/main/DevOps.png" alt="DevOps Banner">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer. <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
+<h3 align="center">A passionate DevOps Engineer. <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOps</a></h3>
 
 <p align="center">
   <a href="https://github.com/mani9704">
-    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/mani9704?label=Follow&style=social" />
   </a>
   <a href="https://linkedin.com/in/manikantareddy9704">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
