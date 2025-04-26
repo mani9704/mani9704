@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/mani9704?label=Follow&style=social" />
   </a>
   <a href="https://linkedin.com/in/manikantareddy9704">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ganga%20Manikanta%20Reddy%20Mooli-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
