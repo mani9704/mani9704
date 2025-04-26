@@ -4,7 +4,7 @@
   <img src="https://github.com/mani9704/mani9704/blob/main/DevOps.png" alt="DevOps Banner">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer. <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOps</a></h3>
+<h3 align="center">A passionate DevOps Engineer </h3>
 
 <p align="center">
   <a href="https://github.com/mani9704">
